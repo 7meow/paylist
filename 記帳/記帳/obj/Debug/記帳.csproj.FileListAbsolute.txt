@@ -1,0 +1,17 @@
+C:\Users\l6\Desktop\git\記帳\記帳\記帳\bin\Debug\記帳.exe.config
+C:\Users\l6\Desktop\git\記帳\記帳\記帳\bin\Debug\記帳.exe
+C:\Users\l6\Desktop\git\記帳\記帳\記帳\bin\Debug\記帳.pdb
+C:\Users\l6\Desktop\git\記帳\記帳\記帳\obj\Debug\記帳.csprojAssemblyReference.cache
+C:\Users\l6\Desktop\git\記帳\記帳\記帳\obj\Debug\MainWindow.g.cs
+C:\Users\l6\Desktop\git\記帳\記帳\記帳\obj\Debug\price.g.cs
+C:\Users\l6\Desktop\git\記帳\記帳\記帳\obj\Debug\App.g.cs
+C:\Users\l6\Desktop\git\記帳\記帳\記帳\obj\Debug\記帳_MarkupCompile.cache
+C:\Users\l6\Desktop\git\記帳\記帳\記帳\obj\Debug\記帳_MarkupCompile.lref
+C:\Users\l6\Desktop\git\記帳\記帳\記帳\obj\Debug\MainWindow.baml
+C:\Users\l6\Desktop\git\記帳\記帳\記帳\obj\Debug\price.baml
+C:\Users\l6\Desktop\git\記帳\記帳\記帳\obj\Debug\記帳.g.resources
+C:\Users\l6\Desktop\git\記帳\記帳\記帳\obj\Debug\記帳.Properties.Resources.resources
+C:\Users\l6\Desktop\git\記帳\記帳\記帳\obj\Debug\記帳.csproj.GenerateResource.cache
+C:\Users\l6\Desktop\git\記帳\記帳\記帳\obj\Debug\記帳.csproj.CoreCompileInputs.cache
+C:\Users\l6\Desktop\git\記帳\記帳\記帳\obj\Debug\記帳.exe
+C:\Users\l6\Desktop\git\記帳\記帳\記帳\obj\Debug\記帳.pdb
